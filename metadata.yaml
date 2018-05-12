@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42496'
     url: http://www.gutenberg.org/2009/agents/42496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43945#A-Treatise-Upon-the-Law-of-Copyright-in-the-United-Kingdom-and-the-Dominions-of-the-Crown-Min_
 gutenberg_issued: '2013-10-13'
 gutenberg_type: Text
 identifiers:
