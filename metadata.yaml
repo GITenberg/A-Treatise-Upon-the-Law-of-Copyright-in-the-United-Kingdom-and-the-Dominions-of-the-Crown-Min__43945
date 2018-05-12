@@ -1,0 +1,32 @@
+_repo: A-Treatise-Upon-the-Law-of-Copyright-in-the-United-Kingdom-and-the-Dominions-of-the-Crown-Min__43945
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43945-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacGillivray, Evan James
+    alias: MacGillivray, E. J. (Evan James)
+    birthdate: 1873
+    deathdate: 1955
+    gutenberg_agent_id: '42496'
+    url: http://www.gutenberg.org/2009/agents/42496
+description: ''
+gutenberg_issued: '2013-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43945'
+  lccn: 02026696
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'K'
+- !lcsh 'Copyright -- Great Britain'
+- !lcsh 'Copyright -- United States'
+title: "A Treatise Upon the Law of Copyright in the United Kingdom and the Dominions\
+  \ of the Crown,\r\nand in the United States of America Containing a Full Appendix\
+  \ of All Acts of Parliament International Conventions, Orders in Council, Treasury\
+  \ Minute and Acts of Congress Now in Force."
+url: http://www.gutenberg.org/ebooks/43945
